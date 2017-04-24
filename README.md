@@ -15,6 +15,8 @@ The higher-level API brings together a collection of standard building blocks
 (RNN encoder and decoder, multi-layer perceptron) and a simple way of adding new
 building blocks implemented directly in TensorFlow.
 
+For bandit objectives please see the branch bandits-dev.
+
 ## Usage
 
 ```bash
